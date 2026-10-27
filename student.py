@@ -3,7 +3,7 @@ def validate_student_email(email):
 
 
 def main():
-    email = "student@example.com"
+    email = "student1@example.com"
 
     if validate_student_email(email):
         print("Valid student email")
