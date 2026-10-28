@@ -4,7 +4,7 @@ def validate_student_email(email):
 
 def main():
     email = "student1@example.com"
-    email1 = "huzefa@gmail.com"
+    email1 = "huzefa.com"
 
     if validate_student_email(email):
         print("Valid student email")
